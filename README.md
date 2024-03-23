@@ -1,1 +1,1 @@
-# HackFSU-SPR24
+# HackFSU Spring 2024
