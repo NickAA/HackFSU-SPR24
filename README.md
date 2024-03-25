@@ -1,5 +1,5 @@
 # HackFSU Spring 2024
 
 1st Ashif Ali  
-2nd Brendan Womer  
-3rd Chase Blancher  
+2nd Chase Blancher  
+3rd Brendan Womer  
